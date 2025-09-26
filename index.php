@@ -1,10 +1,12 @@
-<?php
-    require "libs/function.php";
-    start_page("Tissons Solidaire");
-?>
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <title>Tissons Solidaire</title>
+    </head>
 
-<body>
-    <h1>Donnez une <span>seconde vie</span> à vos vêtements</h1>
-</body>
+    <body>
+        <h1>Donnez une <span>seconde vie</span> à vos vêtements</h1>
+    </body>
 
-<?php end_page() ?>
+</html>
